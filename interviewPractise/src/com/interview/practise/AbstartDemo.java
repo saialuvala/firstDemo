@@ -10,7 +10,7 @@ public class AbstartDemo extends Demo implements DemoInterfacr{
 
 	@Override
 	public void display() {
-		//System.out.println("Callig display method");
+		System.out.println("Callig display methodmmmmmmmmmm");
 	}
 	
 	public static void  main(String args[]) {
