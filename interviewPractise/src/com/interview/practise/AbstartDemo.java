@@ -16,6 +16,7 @@ public class AbstartDemo extends Demo implements DemoInterfacr{
 	public static void  main(String args[]) {
 		AbstartDemo d = new AbstartDemo();
 		d.display();
+		System.out.println("hi");
 	}
 	
 }
